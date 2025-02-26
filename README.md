@@ -1,2 +1,2 @@
-# Miscellaneous
-This is a repository with a document highlighting some key points on fire safety and sageguarding.
+# index.html
+This covers my experience in AkiraChix on various aspects like creative thinking,perseverance and problem solving.
